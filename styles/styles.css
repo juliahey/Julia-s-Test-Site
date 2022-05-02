@@ -1,0 +1,26 @@
+  body{
+    background-color: #e5cb90;
+    margin: 40px;
+    padding 20px;
+    border: 5px solid green;
+  }
+  h1, h2, h3, p{
+    color: white;
+    text-align: center;
+  }
+  .secondary-header{
+    color: white;
+  }
+  #speical-header{
+    color: white;
+    font-size: 101px;
+    }
+  .circle{
+    background-color: blue;
+    size: 101px;
+  }
+  .button
+    padding: 10px;
+    background-color: blue;
+    border: 4px solid green;
+  }
